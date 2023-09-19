@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-09-19T18:13:47.9631705Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-09-19T17:02:17.8450969Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "47940468-0a75-416b-b830-ed6e2c205740"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "WEB_APP_AUTOS_ELECTRICOS"
+    }
+  }
+}
